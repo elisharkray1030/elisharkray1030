@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Elijah, currently a university studeng in Hong Kong!
+I am Elijah, currently a university student in Hong Kong!
 
 - 🔭 I’m currently working on SST - LLM - TTS AI chatbot interaction on G1 Humanoid
 - 🌱 I’m currently learning agentic workflows with Hermes Agent

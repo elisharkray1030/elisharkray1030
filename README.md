@@ -1,6 +1,6 @@
 # Hey, I'm Elijah 👋
 
-**AI Engineering Intern @ HKPC · Microsoft Student Ambassador · Final-year @ HKU**
+**Former AI Engineering Intern @ HKPC · Microsoft Student Ambassador · Final-year @ HKU**
 
 I build AI systems that do useful things — from voice-driven robots to
 operational tools that replace spreadsheets with software.
@@ -58,7 +58,7 @@ Defines how I use AI coding agents effectively — the workflow behind the workf
 
 ## Experience
 
-- **AI Engineering Intern** @ HKPC (Hong Kong Productivity Council)
+- **Former AI Engineering Intern** @ HKPC (Hong Kong Productivity Council)
 - **Project Intern** @ HKU Arts Technology Lab
 - **Microsoft Student Ambassador**
 

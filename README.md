@@ -2,7 +2,7 @@
 
 # Hey, I'm Elijah 👋
 
-**Former AI Engineering Intern @ HKPC · Microsoft Student Ambassador · Final-year @ HKU**
+**Final-year @ HKU · Microsoft Student Ambassador**
 
 </div>
 
@@ -35,6 +35,7 @@ and stores everything in SQLite for historical reporting.
 ---
 
 ## Experience
+- **Former AI Engineering Intern** @ HKPC (Hong Kong Productivity Council)
 - **Project Intern** @ HKU Arts Technology Lab
 - **Microsoft Student Ambassador**
 

@@ -38,9 +38,3 @@ and stores everything in SQLite for historical reporting.
 - **Former AI Engineering Intern** @ HKPC (Hong Kong Productivity Council)
 - **Project Intern** @ HKU Arts Technology Lab
 - **Microsoft Student Ambassador**
-
----
-
-## Let's Connect
-- [LinkedIn](https://linkedin.com/in/elijah-rey-delgado)
-- Open to AI Engineering collaborations — reach out!

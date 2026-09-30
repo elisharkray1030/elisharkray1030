@@ -16,14 +16,14 @@ logs, matches boarders against a master list, tracks lateness, minutes, and
 ipoints, and stores month summaries for historical reporting. Ships with Docker,
 ADR documentation, and Playwright/pytest coverage.
 **Python · Flask · SQLite · Docker · Playwright**
-[Repository →](https://github.com/elisharkray1030/DBSBS-Lateness-Application)
+[Repository](https://github.com/elisharkray1030/DBSBS-Lateness-Application)
 
 ### 🧾 DBSBS POS Application
 Offline point-of-sale application built and shipped for the DBS Garden Fete.
 Runs on two Windows laptops with no network or installer, supporting cash,
 voucher, and Octopus settlement with a full end-of-day export.
 **Python · Tkinter · SQLite**
-[Repository →](https://github.com/elisharkray1030/DBSBS-POS-Application)
+[Repository](https://github.com/elisharkray1030/DBSBS-POS-Application)
 
 ---
 
@@ -49,4 +49,4 @@ voucher, and Octopus settlement with a full end-of-day export.
 
 ## Let's Connect
 
-[GitHub](https://github.com/elisharkray1030) · [LinkedIn](https://www.linkedin.com/in/elijah-rey-delgado) · [Email](mailto:delgadoelijahrey@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/elijah-rey-delgado) · [Email](mailto:delgadoelijahrey@gmail.com)
